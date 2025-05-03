@@ -2,7 +2,7 @@
 perform an exploratory data analysis of the CCM Computing Courses Entry Surveys.  Provide insights that can help the Information Technologies department increase enrollment in computing classes
 
 The Files used in this project were provided by The County College of Morris for education purposes.
-## Files used : 
+## Files used : Non-Majors.csv
   
 ## Data Study Questions
 There are 4 questions that were answered in this project using Exploratory Data Analysis 
